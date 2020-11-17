@@ -10,4 +10,3 @@ Skills: JAVA / C# / DART / FLUTTER
 
 ![Profile views](https://gpvc.arturio.dev/hestys)  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hestys)](https://github.com/anuraghazra/github-readme-stats)
