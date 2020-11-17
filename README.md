@@ -2,7 +2,8 @@
 I'm Cihat from Turkey, and I do Development for Mobile. I really enjoy learning languages 
 ​​and frameworks like Flutter etc.                                                                                                                                                                                    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hestys)](https://github.com/anuraghazra/github-readme-stats)
 
-Skills: JAVA / C# / DART / FLUTTER
+### Skills 
+JAVA / C# / DART / FLUTTER
 
 
 
